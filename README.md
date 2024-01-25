@@ -25,15 +25,15 @@
 ### <상>
 |번호|제목|정답률|비고|상태|
 |-----|:------:|:---:|:---:|:---:|
-|1012|유기농 배추|38%|
-|6593|상범 빌딩|38%|
-|7576|토마토|36%||:heavy_check_mark:|
-|2468|안전 영역|34%|
-|2146|다리 만들기|34%|
-|20304|비밀번호 제작|31%|
-|2573|빙산|26%|
-|1697|숨바꼭질|25%|
-|4179|불!|20%|
+|[1012](https://www.acmicpc.net/problem/1012)|유기농 배추|38%|
+|[6593](https://www.acmicpc.net/problem/6593)|상범 빌딩|38%|
+|[7576](https://www.acmicpc.net/problem/7576)|토마토|36%||:heavy_check_mark:|
+|[2468](https://www.acmicpc.net/problem/2468)|안전 영역|34%|
+|[2146](https://www.acmicpc.net/problem/2146)|다리 만들기|34%|
+|[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|31%|
+|[2573](https://www.acmicpc.net/problem/2573)|빙산|26%|
+|[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|25%|
+|[4179](https://www.acmicpc.net/problem/4179)|불!|20%|
 
 ## 다이나믹 프로그래밍, 분할정복
 ### <하>
