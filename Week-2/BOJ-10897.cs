@@ -26,7 +26,7 @@ namespace Baekjoon
                 int nthChild = int.Parse(line[i]) - 1;
                 int childrenToBeBorn = (gen + 1);
 
-                curLineFirst += curLineLen;
+                curLineFirst = (curLineLen + curLineFirst) % M;
                 curLineLen *= childrenToBeBorn;
                 int jeongmin = (curLineFirst + (parentOrder * childrenToBeBorn) + nthChild) % M;
                 sb.Append(jeongmin);
